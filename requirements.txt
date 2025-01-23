@@ -1,0 +1,7 @@
+python-telegram-bot==20.3      # Telegram Bot framework
+python-dotenv==1.0.0           # For .env file parsing
+pynacl==1.5.0                  # For keypair generation
+solana==0.26.0                 # Solana blockchain interaction
+solders==0.14.1                # Solana's lower-level library
+requests==2.31.0               # For any HTTP requests
+base58==2.1.1                  # Encoding for public/private keys

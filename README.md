@@ -16,7 +16,7 @@ A Telegram bot to create, manage, and interact with Solana wallets.
 ## Installation
 1. Clone the repository:
 ```
-git clone https://github.com/estevamgd/solana-bot.git cd solana-bot
+git clone https://github.com/estevamgd/solana_bot.git cd solana-bot
 ```
 2. Install dependencies:
 ```
